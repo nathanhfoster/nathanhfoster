@@ -50,8 +50,8 @@ relationships. --- 🧰 ToolBox
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"
   alt="Django Logo"
-  height="50"
-  width="50"
+  height="75"
+  width="75"
 />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
