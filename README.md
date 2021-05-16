@@ -20,7 +20,6 @@
     >Nathan Foster</a
   >
 </div>
-
 A lifelong learner and charismatic software engineer with a passion for web development. Striving to
 stand on the vanguard of technology and innovate immersive digital experiences that make life
 better. I am a leader that galvanizes people. I value craftsmanship. I am an expert in JavaScript,
@@ -39,6 +38,7 @@ relationships.
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>🔗 Links</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -48,13 +48,40 @@ relationships.
   <tbody>
     <tr>
       <td><a href="https://github.com/strap8/resurrection" target="_blank"><b>resurrection</b></a></td>
+      <td><a href="https://www.npmjs.com/package/resurrection" target="_blank">resurrection</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/strap8/llexicon" target="_blank"><b>llexicon</b></a></td>
+        <td><a href="https://www.astraltree.com" target="_blank">Astral Tree</a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/strap8/llexicon?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/strap8/llexicon?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/llexicon?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/strap8/llexicon?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/strap8/llexicon-db" target="_blank"><b>llexicon-db</b></a></td>
+        <td><a href="https://astraltree-db.herokuapp.com" target="_blank">Astral Tree Django Admin</a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/strap8/llexicon-db?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/strap8/llexicon-db?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/llexicon-db?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/strap8/llexicon-db?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
+---
+<a href="https://www.linkedin.com/in/nathanhfoster/detail/recent-activity/shares/" target="_blank">My latest posts</a>
+<ul>
+  <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
+  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
+  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
+  <li><a href="https://medium.com/dev-genius/hi-interested-by-a-once-in-a-lifetime-opportunity-1777c889127c"><b>Hi, Interested by a Once-in-a-Lifetime Opportunity?</b></a><br/><i>A perfectly suited job position for those aiming for the sky.</i></li>
+  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
+  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
+</ul>
 ---
 🧰 ToolBox
 <p>
