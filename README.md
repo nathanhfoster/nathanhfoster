@@ -75,10 +75,19 @@ relationships.</p>
 <a href="https://www.linkedin.com/in/nathanhfoster/detail/recent-activity/shares/" target="_blank">My latest posts</a>
 <ul>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BGP8kDtocQoSDBd2kN2b2Tg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view"><b>Which Redux implementation do you like the most and why?</b></a></li>
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6716822948331831296/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BGP8kDtocQoSDBd2kN2b2Tg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view"><img
+    src="https://media-exp1.licdn.com/dms/image/C5622AQGsIKu9sFp4zA/feedshare-shrink_2048_1536/0/1601415382956?e=1623888000&v=beta&t=bwfToOFPze__AxXyfPMj1xJBd-Muxo5GM2QvOkpDBj0"
+    alt="useReducer"
+    width="50"
+    height="50"
+  /><b>Did you know you can use the useReducer hook instead of the useState hook if you are encapsulating a state object? You will actually use less code!</b></a></li>
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BGP8kDtocQoSDBd2kN2b2Tg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view"><b>Which Redux implementation do you like the most and why?</b></a></li>
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BGP8kDtocQoSDBd2kN2b2Tg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view"><b>Which Redux implementation do you like the most and why?</b></a></li>
+
 </ul>
 
 🧰 ToolBox
-<p>
+<p align="center">
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
   alt="React Logo"
