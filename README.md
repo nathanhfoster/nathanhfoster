@@ -34,8 +34,30 @@ am not on the keyboard I am analyzing business and client needs, minimizing tech
 maximizing scalability and performance, focusing on user experience, and building meaningful
 relationships.
 ---
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/resurrection" target="_blank"><b>resurrection</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+---
 🧰 ToolBox
-
+<p>
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
   alt="React Logo"
@@ -132,6 +154,7 @@ relationships.
   width="50"
   height="50"
 />
+</p>
 ---
 <!--
 **strap8/strap8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
