@@ -32,6 +32,16 @@ the lives of people. I constantly seek to add value to all areas for my team and
 am not on the keyboard I am analyzing business and client needs, minimizing technical debt,
 maximizing scalability and performance, focusing on user experience, and building meaningful
 relationships.</p>
+<iframe
+className="embed-responsive embed-responsive-16by9"
+title="Visualize The Power Of Redux and Memoizationi In React"
+width={560}
+height={315}
+src="https://www.youtube.com/embed/KypVn6vGFWg"
+frameBorder="0"
+allow="accelerometer autoplay clipboard-write encrypted-media gyroscope picture-in-picture"
+allowFullScreen
+/>
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -69,21 +79,24 @@ relationships.</p>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/llexicon-db?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/strap8/llexicon-db?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/strap8/react-craftsmanship" target="_blank"><b>react-craftsmanship</b></a></td>
+        <td><a href="https://react-craftsmanship.herokuapp.com/" target="_blank">React Form Memoziation</a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/strap8/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/strap8/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/strap8/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
 <a href="https://www.linkedin.com/in/nathanhfoster/detail/recent-activity/shares/" target="_blank">My latest posts</a>
 <ul>
-  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BGP8kDtocQoSDBd2kN2b2Tg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view"><b>Which Redux implementation do you like the most and why?</b></a></li>
-  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6716822948331831296/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BGP8kDtocQoSDBd2kN2b2Tg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view"><img
-    src="https://media-exp1.licdn.com/dms/image/C5622AQGsIKu9sFp4zA/feedshare-shrink_2048_1536/0/1601415382956?e=1623888000&v=beta&t=bwfToOFPze__AxXyfPMj1xJBd-Muxo5GM2QvOkpDBj0"
-    alt="useReducer"
-    width="50"
-    height="50"
-  /><b>Did you know you can use the useReducer hook instead of the useState hook if you are encapsulating a state object? You will actually use less code!</b></a></li>
-  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BGP8kDtocQoSDBd2kN2b2Tg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view"><b>Which Redux implementation do you like the most and why?</b></a></li>
-  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BGP8kDtocQoSDBd2kN2b2Tg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view"><b>Which Redux implementation do you like the most and why?</b></a></li>
-
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/"><b>Which Redux implementation do you like the most and why?</b></a></li>
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6716822948331831296/"><b>Did you know you can use the useReducer hook instead of the useState hook if you are encapsulating a state object? You will actually use less code!</b></a></li>
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6709485304178454528/"><b>If you want your useEffect hook to not be used on the initial mount of your component do this:</b></a></li>
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6712396337343815680/"><b>If you want to combine the work done by the .filter and .map methods than use the .reduce method like this:</b></a></li>
+  <li><a href="https://www.linkedin.com/posts/nathanhfoster_visualize-the-power-of-redux-and-memoizationi-activity-6712084790641852416-fm08"><b>Visualize The Power Of Redux and Memoization In React</b></a></li>
 </ul>
 
 🧰 ToolBox
