@@ -1,25 +1,6 @@
 ### Hi there <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px" />, I am Nathan Foster
 ---
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
-  width="50"
-  height="50"
-/>
-<div
-  class="badge-base LI-profile-badge"
-  data-locale="en_US"
-  data-size="medium"
-  data-theme="dark"
-  data-type="VERTICAL"
-  data-vanity="jonathan-martin-software-engineer"
-  data-version="v1"
->
-  <a
-    class="badge-base__link LI-simple-link"
-    href="https://www.linkedin.com/in/nathanhfoster?trk=profile-badge"
-    >Nathan Foster</a
-  >
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Nathan_Foster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhfoster/)](https://www.linkedin.com/in/nathanhfoster/)
 <p>A lifelong learner and charismatic software engineer with a passion for web development. Striving to
 stand on the vanguard of technology and innovate immersive digital experiences that make life
 better. I am a leader that galvanizes people. I value craftsmanship. I am an expert in JavaScript,
