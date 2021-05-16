@@ -1,6 +1,4 @@
-### Hi there
-<img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px" />, I
-am Nathan Foster
+### Hi there <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px" />, I am Nathan Foster
 ---
 
 <img
