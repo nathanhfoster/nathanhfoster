@@ -53,8 +53,8 @@ relationships.
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"
     alt="Django Logo"
-    height="50"
-    width="50"
+    height="100"
+    width="100"
   />
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
