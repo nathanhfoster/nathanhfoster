@@ -70,7 +70,7 @@ relationships.</p>
   <li><a href="https://www.linkedin.com/posts/nathanhfoster_visualize-the-power-of-redux-and-memoizationi-activity-6712084790641852416-fm08"><b>Visualize The Power Of Redux and Memoization In React</b></a></li>
 </ul>
 
-🧰 ToolBox
+<h3>🧰 ToolBox</h3>
 <p align="center">
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
