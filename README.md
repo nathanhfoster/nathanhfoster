@@ -26,7 +26,7 @@ stand on the vanguard of technology and innovate immersive digital experiences t
 better. I am a leader that galvanizes people. I value craftsmanship. I am an expert in JavaScript,
 React, and Redux with years of experience taking enterprise applications to the next level. I have
 been building progressive web applications for several years in React, Redux, and Django. I have
-written my own state management library that uses the React's latest useContext and useReducer
+written my own <a href="https://www.npmjs.com/package/resurrection" target="_blank">state management library</a> that uses the React's latest useContext and useReducer
 hooks. I have an unquenchable thirst for knowledge and take the initiative to cultivate a
 collaborative environment, deliver technical solutions, and make an impact on teams, business, and
 the lives of people. I constantly seek to add value to all areas for my team and my clients. When I
