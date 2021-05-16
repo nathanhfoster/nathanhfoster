@@ -37,7 +37,7 @@ relationships.
 ---
 🧰 ToolBox
 
-<div style="align-items: center; justify-content: center; flex-direction: column">
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: column">
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
     alt="React Logo"
