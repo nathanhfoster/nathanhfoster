@@ -32,7 +32,6 @@ the lives of people. I constantly seek to add value to all areas for my team and
 am not on the keyboard I am analyzing business and client needs, minimizing technical debt,
 maximizing scalability and performance, focusing on user experience, and building meaningful
 relationships.</p>
----
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
