@@ -20,18 +20,18 @@
     >Nathan Foster</a
   >
 </div>
-A lifelong learner and charismatic software engineer with a passion for web development. Striving to
+<p>A lifelong learner and charismatic software engineer with a passion for web development. Striving to
 stand on the vanguard of technology and innovate immersive digital experiences that make life
 better. I am a leader that galvanizes people. I value craftsmanship. I am an expert in JavaScript,
 React, and Redux with years of experience taking enterprise applications to the next level. I have
 been building progressive web applications for several years in React, Redux, and Django. I have
-written my own <a href="https://www.npmjs.com/package/resurrection" target="_blank">state management library</a> that uses the React's latest useContext and useReducer
+written my own state management library that uses the React's latest useContext and useReducer
 hooks. I have an unquenchable thirst for knowledge and take the initiative to cultivate a
 collaborative environment, deliver technical solutions, and make an impact on teams, business, and
 the lives of people. I constantly seek to add value to all areas for my team and my clients. When I
 am not on the keyboard I am analyzing business and client needs, minimizing technical debt,
 maximizing scalability and performance, focusing on user experience, and building meaningful
-relationships.
+relationships.</p>
 ---
 <h3>Open source projects</h3>
 <table>
@@ -72,12 +72,12 @@ relationships.
     </tr>
   </tbody>
 </table>
----
+
 <a href="https://www.linkedin.com/in/nathanhfoster/detail/recent-activity/shares/" target="_blank">My latest posts</a>
 <ul>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BGP8kDtocQoSDBd2kN2b2Tg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view"><b>Which Redux implementation do you like the most and why?</b></a></li>
 </ul>
----
+
 🧰 ToolBox
 <p>
 <img
@@ -177,7 +177,7 @@ relationships.
   height="50"
 />
 </p>
----
+
 <!--
 **strap8/strap8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
