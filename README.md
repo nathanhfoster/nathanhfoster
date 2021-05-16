@@ -170,4 +170,4 @@ relationships.</p>
 />
 </p>
 <h3>GitHub Stats</h3>
-<p><img align="left" width="320" src="https://github-readme-stats.vercel.app/api?username=strap8&theme=dark&show_icons=true"></p>
+<p><img align="left" width="576" src="https://github-readme-stats.vercel.app/api?username=strap8&theme=dark&show_icons=true"></p>
