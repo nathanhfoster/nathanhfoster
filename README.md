@@ -188,7 +188,8 @@ relationships.</p>
   height="50"
 />
 </p>
-
+<h3>GitHub Stats</h3>
+<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=strap8&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)</p>
 <!--
 **strap8/strap8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
