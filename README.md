@@ -47,7 +47,7 @@ relationships.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.npmjs.com/package/resurrection" target="_blank"><b>resurrection</b></a></td>
+      <td><a href="https://github.com/strap8/resurrection" target="_blank"><b>resurrection</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
