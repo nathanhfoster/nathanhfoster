@@ -32,7 +32,9 @@ collaborative environment, deliver technical solutions, and make an impact on te
 the lives of people. I constantly seek to add value to all areas for my team and my clients. When I
 am not on the keyboard I am analyzing business and client needs, minimizing technical debt,
 maximizing scalability and performance, focusing on user experience, and building meaningful
-relationships. --- 🧰 ToolBox
+relationships.
+---
+🧰 ToolBox
 
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
