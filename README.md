@@ -1,6 +1,5 @@
 ### Hi there <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px" />, I am Nathan Foster
 ---
-
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
   width="50"
@@ -33,111 +32,105 @@ collaborative environment, deliver technical solutions, and make an impact on te
 the lives of people. I constantly seek to add value to all areas for my team and my clients. When I
 am not on the keyboard I am analyzing business and client needs, minimizing technical debt,
 maximizing scalability and performance, focusing on user experience, and building meaningful
-relationships.
+relationships. --- 🧰 ToolBox
+
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+  alt="React Logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
+  alt="Redux Logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"
+  alt="Django Logo"
+  height="100"
+  width="100"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+  alt="Javascript Logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+  alt="HTML5 logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+  alt="CSS3 logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
+  alt="bootstrap logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg"
+  alt="Developer Logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
+  alt="Express Logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+  alt="Git logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"
+  alt="Google Logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
+  alt="Hquery Logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
+  alt="Node Logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
+  alt="Node Package Manager Logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
+  alt="PostGreSQL logo"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
+  alt="VSCode Logo"
+  width="50"
+  height="50"
+/>
 ---
-🧰 ToolBox
-
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column">
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-    alt="React Logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
-    alt="Redux Logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"
-    alt="Django Logo"
-    height="100"
-    width="100"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-    alt="Javascript Logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-    alt="HTML5 logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-    alt="CSS3 logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
-    alt="bootstrap logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg"
-    alt="Developer Logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
-    alt="Express Logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-    alt="Git logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"
-    alt="Google Logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
-    alt="Hquery Logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
-    alt="Node Logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
-    alt="Node Package Manager Logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
-    alt="PostGreSQL logo"
-    width="50"
-    hieght="50"
-  />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
-    alt="VSCode Logo"
-    width="50"
-    hieght="50"
-  />
-</div>
-
----
-
 <!--
 **strap8/strap8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
