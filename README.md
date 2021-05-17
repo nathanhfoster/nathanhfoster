@@ -84,15 +84,15 @@ relationships.</p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
-  alt="Redux Logo"
+  alt="Redux"
   width="50"
   height="50"
 />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"
-  alt="Django Logo"
-  height="50"
-  width="50"
+  alt="Django"
+  height="100"
+  width="100"
 />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJs" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="50" height="50" />
@@ -110,7 +110,7 @@ relationships.</p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
-  alt="Express Logo"
+  alt="Express"
   width="50"
   height="50"
 />
@@ -139,19 +139,19 @@ relationships.</p>
 />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
-  alt="VSCode Logo"
+  alt="VSCode"
   width="50"
   height="50"
 />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
-  alt="Node Package Manager Logo"
+  alt="Node Package Manager"
   width="50"
   height="50"
 />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
-  alt="Jquery Logo"
+  alt="Jquery"
   width="50"
   height="50"
 />
