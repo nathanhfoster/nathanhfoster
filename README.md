@@ -2,15 +2,9 @@
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Foster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhfoster/)](https://www.linkedin.com/in/nathanhfoster/)
 <table cellspacing="0" cellpadding="0">
-  <thead>
-    <tr>
-      <td><b>1</b></td>
-      <td><b>2</b></td>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td>
+      <td rowspan="1">
         A lifelong learner and charismatic software engineer with a passion for web development. Striving to
         stand on the vanguard of technology and innovate immersive digital experiences that make life
         better. I am a leader that galvanizes people. I value craftsmanship. I am an expert in JavaScript,
