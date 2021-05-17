@@ -23,7 +23,7 @@
         relationships.
         </p>
       </td>
-      <td width="220">
+      <td width="320">
         <img src="https://www.cassixcom.com/application/views/front/cassixcom-gifs/business-software.gif" width="100%" height="auto" />
       </td>
     </tr>
