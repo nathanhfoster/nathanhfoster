@@ -1,4 +1,5 @@
 ### Hi there, I am Nathan Foster <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strap8&repo=github-readme-stats)](https://github.com/strap8/github-readme-stats)
 [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Foster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhfoster/)](https://www.linkedin.com/in/nathanhfoster/)
 <img alt="Background Image" src="https://media-exp1.licdn.com/dms/image/C5616AQHsk7Ngok6cyg/profile-displaybackgroundimage-shrink_350_1400/0/1599768122426?e=1626912000&amp;v=beta&amp;t=fJTUNBfKaIpJwFS04ngWqAaAhv5Cwuw0o7P_JEsPV2Q" width="100%" />
 <p>A lifelong learner and charismatic software engineer with a passion for web development. Striving to
@@ -72,6 +73,7 @@ relationships.
     </tr>
   </tbody>
 </table>
+
 <a href="https://www.linkedin.com/in/nathanhfoster/detail/recent-activity/shares/" target="_blank">My latest posts</a>
 <ul>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/"><b>Which Redux implementation do you like the most and why?</b></a></li>
@@ -178,7 +180,8 @@ relationships.
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="50" height="50" />
 </p>
 <h3>GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=strap8&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=strap8&repo=github-readme-stats&show_icons=true&hide_border=true&theme=dark" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=strap8&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=strap8&theme=dark" width="48%" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strap8&show_icons=true&hide_border=true&theme=dark" width="48%"  align="right" >
 <p align="center"> 
