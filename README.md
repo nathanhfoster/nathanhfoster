@@ -72,7 +72,6 @@ relationships.
     </tr>
   </tbody>
 </table>
-
 <a href="https://www.linkedin.com/in/nathanhfoster/detail/recent-activity/shares/" target="_blank">My latest posts</a>
 <ul>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/"><b>Which Redux implementation do you like the most and why?</b></a></li>
