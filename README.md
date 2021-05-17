@@ -26,7 +26,7 @@
         </p>
       </td>
       <td>
-        <img src="https://www.cassixcom.com/application/views/front/cassixcom-gifs/business-software.gif" width="auto" height="auto" />
+        <img src="https://www.cassixcom.com/application/views/front/cassixcom-gifs/business-software.gif" width="50%" height="auto" />
       </td>
     </tr>
   </tbody>
