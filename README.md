@@ -1,7 +1,7 @@
 ### Hi there, I am Nathan Foster <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px" />
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Foster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhfoster/)](https://www.linkedin.com/in/nathanhfoster/)
-<table  >
+<table cellspacing="0" cellpadding="0">
   <thead>
     <tr>
       <td><b>1</b></td>
@@ -25,8 +25,6 @@
       relationships.
         </p>
       </td>
-    </tr>
-    <tr>
       <td>
         <img src="https://www.cassixcom.com/application/views/front/cassixcom-gifs/business-software.gif" width="auto" height="auto" />
       </td>
