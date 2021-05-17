@@ -180,6 +180,6 @@ relationships.
 <h3>GitHub Stats</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=strap8&theme=dark" alt="Contributions" width="48%" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=strap8&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" alt="Github Stats" width="48%" align="left" >
-<h3>&#8203</h3>
+<h3>___</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strap8&show_icons=true&hide_border=true&theme=dark" alt="Most Used Languages" width="48%" height="auto" align="left">
 <img src="https://profile-counter.glitch.me/strap8/count.svg" alt="Visitor Count" width="48%" align="right" />
