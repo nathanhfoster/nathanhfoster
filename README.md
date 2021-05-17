@@ -179,7 +179,7 @@ relationships.
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="50" height="50" />
 </p>
 <h3>GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_icons=true&hide_border=true&theme=dark" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=strap8&repo=github-readme-stats&show_icons=true&hide_border=true&theme=dark" width="100%" />
 <img src="https://github-readme-stats.vercel.app/api?username=strap8&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=strap8&theme=dark" width="48%" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strap8&show_icons=true&hide_border=true&theme=dark" width="48%"  align="right" >
