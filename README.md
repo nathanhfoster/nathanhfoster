@@ -180,7 +180,7 @@ relationships.
 </p>
 <h3>GitHub Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=strap8&show_owner&repo=github-readme-stats&show_icons=true&hide_border=true&theme=dark" width="100%" />
-<img src="https://github-readme-stats.vercel.app/api?username=strap8&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=strap8&count_private=true&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=strap8&theme=dark" width="48%" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strap8&show_icons=true&hide_border=true&theme=dark" width="48%"  align="right" >
 <p align="center"> 
