@@ -4,7 +4,7 @@
 <table cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
-      <td rowspan="1">
+      <tdv width="50%">
         A lifelong learner and charismatic software engineer with a passion for web development. Striving to
         stand on the vanguard of technology and innovate immersive digital experiences that make life
         better. I am a leader that galvanizes people. I value craftsmanship. I am an expert in JavaScript,
@@ -18,7 +18,7 @@
         maximizing scalability and performance, focusing on user experience, and building meaningful
         relationships.
       </td>
-      <td rowspan="2">
+      <td width="50%">
         <img src="https://www.cassixcom.com/application/views/front/cassixcom-gifs/business-software.gif" width="100%" height="auto" />
       </td>
     </tr>
