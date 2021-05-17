@@ -4,7 +4,7 @@
 <table cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
-      <tdv width="50%">
+      <td>
         A lifelong learner and charismatic software engineer with a passion for web development. Striving to
         stand on the vanguard of technology and innovate immersive digital experiences that make life
         better. I am a leader that galvanizes people. I value craftsmanship. I am an expert in JavaScript,
