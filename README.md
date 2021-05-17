@@ -174,4 +174,8 @@ relationships.</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="50" height="50" />
 </p>
 <h3>GitHub Stats</h3>
-<p><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=strap8&theme=dark&show_icons=true"></p>
+<img  src="https://github-readme-stats.vercel.app/api?username=strap8&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=jatin2003&theme=dark" width="48%" >
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/strap8/count.svg" alt="Visitor Count" align="center" />
+</p>
