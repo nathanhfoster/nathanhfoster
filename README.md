@@ -1,5 +1,4 @@
 ### Hi there, I am Nathan Foster <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px" />
----
 [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Foster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhfoster/)](https://www.linkedin.com/in/nathanhfoster/)
 <img alt="Background Image" src="https://media-exp1.licdn.com/dms/image/C5616AQHsk7Ngok6cyg/profile-displaybackgroundimage-shrink_350_1400/0/1599768122426?e=1626912000&amp;v=beta&amp;t=fJTUNBfKaIpJwFS04ngWqAaAhv5Cwuw0o7P_JEsPV2Q" width="100%" />
 <p>A lifelong learner and charismatic software engineer with a passion for web development. Striving to
@@ -181,7 +180,9 @@ relationships.
 </p>
 <h3>GitHub Stats</h3>
 <img  src="https://github-readme-stats.vercel.app/api?username=strap8&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=jatin2003&theme=dark" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=strap8&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=strap8&show_icons=true&hide_border=true&theme=dark" width="100%" >
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/strap8/count.svg" alt="Visitor Count" align="center" />
 </p>
+
