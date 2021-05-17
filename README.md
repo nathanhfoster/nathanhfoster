@@ -1,6 +1,7 @@
 ### Hi there, I am Nathan Foster <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px" />
-<img alt="Background Image" src="https://media-exp1.licdn.com/dms/image/C5616AQHsk7Ngok6cyg/profile-displaybackgroundimage-shrink_350_1400/0/1599768122426?e=1626912000&amp;v=beta&amp;t=fJTUNBfKaIpJwFS04ngWqAaAhv5Cwuw0o7P_JEsPV2Q" width="100%" />
+---
 [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Foster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhfoster/)](https://www.linkedin.com/in/nathanhfoster/)
+<img alt="Background Image" src="https://media-exp1.licdn.com/dms/image/C5616AQHsk7Ngok6cyg/profile-displaybackgroundimage-shrink_350_1400/0/1599768122426?e=1626912000&amp;v=beta&amp;t=fJTUNBfKaIpJwFS04ngWqAaAhv5Cwuw0o7P_JEsPV2Q" width="100%" />
 <table cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
@@ -18,7 +19,7 @@
         maximizing scalability and performance, focusing on user experience, and building meaningful
         relationships.
       </td>
-      <td width="220">
+      <td width="50%">
         <img src="https://www.cassixcom.com/application/views/front/cassixcom-gifs/business-software.gif" width="100%" height="auto" />
       </td>
     </tr>
