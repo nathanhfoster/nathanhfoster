@@ -79,102 +79,81 @@ relationships.</p>
 </ul>
 
 <h3>🧰 ToolBox</h3>
-<p align="center">
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-  alt="React Logo"
-  width="50"
-  height="50"
-/>
+<p align="left">
+<img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="PWA" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="25" height="25" />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
   alt="Redux Logo"
-  width="50"
-  height="50"
+  width="25"
+  height="25"
 />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"
   alt="Django Logo"
-  height="100"
-  width="100"
+  height="25"
+  width="25"
 />
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-  alt="Javascript Logo"
-  width="50"
-  height="50"
-/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="25" height="25" />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
   alt="HTML5 logo"
-  width="50"
-  height="50"
+  width="25"
+  height="25"
 />
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-  alt="CSS3 logo"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
-  alt="bootstrap logo"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg"
-  alt="Developer Logo"
-  width="50"
-  height="50"
-/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25" />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
   alt="Express Logo"
-  width="50"
-  height="50"
+  width="25"
+  height="25"
 />
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-  alt="Git logo"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"
-  alt="Google Logo"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
-  alt="Hquery Logo"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
-  alt="Node Logo"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
-  alt="Node Package Manager Logo"
-  width="50"
-  height="50"
-/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25" />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
   alt="PostGreSQL logo"
-  width="50"
-  height="50"
+  width="25"
+  height="25"
+/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GoogleCloud" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+  alt="Git logo"
+  width="25"
+  height="25"
 />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
   alt="VSCode Logo"
-  width="50"
-  height="50"
+  width="25"
+  height="25"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
+  alt="Node Package Manager Logo"
+  width="25"
+  height="25"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
+  alt="Jquery Logo"
+  width="25"
+  height="25"
 />
 </p>
 <h3>GitHub Stats</h3>
