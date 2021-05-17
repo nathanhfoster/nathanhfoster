@@ -80,7 +80,7 @@ relationships.</p>
 
 <h3>🧰 ToolBox</h3>
 <p align="left">
-<img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="PWA" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="PWA" width="100%" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="25" height="25" />
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
