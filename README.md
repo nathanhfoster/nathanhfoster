@@ -1,7 +1,8 @@
 ### Hi there, I am Nathan Foster <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px" />
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Foster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhfoster/)](https://www.linkedin.com/in/nathanhfoster/)
-<p align="left" width="50%">A lifelong learner and charismatic software engineer with a passion for web development. Striving to
+<p>
+  <p align="left" width="50%">A lifelong learner and charismatic software engineer with a passion for web development. Striving to
 stand on the vanguard of technology and innovate immersive digital experiences that make life
 better. I am a leader that galvanizes people. I value craftsmanship. I am an expert in JavaScript,
 React, and Redux with years of experience taking enterprise applications to the next level. I have
@@ -12,8 +13,10 @@ collaborative environment, deliver technical solutions, and make an impact on te
 the lives of people. I constantly seek to add value to all areas for my team and my clients. When I
 am not on the keyboard I am analyzing business and client needs, minimizing technical debt,
 maximizing scalability and performance, focusing on user experience, and building meaningful
-relationships.</p>
-<img src="https://www.cassixcom.com/application/views/front/cassixcom-gifs/business-software.gif" width="50%" height="auto" />
+relationships.
+  </p>
+  <img src="https://www.cassixcom.com/application/views/front/cassixcom-gifs/business-software.gif" width="50%" height="auto" />
+</p>
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
