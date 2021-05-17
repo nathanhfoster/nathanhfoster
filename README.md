@@ -89,7 +89,7 @@ relationships.</p>
   height="50"
 />
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"
+  src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
   alt="Django"
   height="100"
   width="100"
