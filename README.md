@@ -178,7 +178,7 @@ relationships.
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="50" height="50" />
 </p>
 <h3>GitHub Stats</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=strap8&theme=dark" width="48%" align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=strap8&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" width="48%" align="left" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strap8&show_icons=true&hide_border=true&theme=dark" width="auto" height="400" align="right" >
-<img src="https://profile-counter.glitch.me/strap8/count.svg" alt="Visitor Count" align="left" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=strap8&theme=dark" alt="Contributions" width="48%" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=strap8&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" alt="Github Stats" width="48%" align="left" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strap8&show_icons=true&hide_border=true&theme=dark" alt="Most Used Languages" width="80%" height="auto" align="left">
+<img src="https://profile-counter.glitch.me/strap8/count.svg" alt="Visitor Count" align="right" />
