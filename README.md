@@ -1,6 +1,5 @@
 ### Hi there, I am Nathan Foster <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strap8&repo=github-readme-stats)](https://github.com/strap8/github-readme-stats)
-[![Linkedin Badge](https://img.shields.io/badge/-Nathan_Foster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhfoster/)](https://www.linkedin.com/in/nathanhfoster/)
+<img src="https://img.shields.io/badge/-Nathan_Foster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhfoster/" alt="LinkedIn Banner" width="100%" />
 <img alt="Background Image" src="https://media-exp1.licdn.com/dms/image/C5616AQHsk7Ngok6cyg/profile-displaybackgroundimage-shrink_350_1400/0/1599768122426?e=1626912000&amp;v=beta&amp;t=fJTUNBfKaIpJwFS04ngWqAaAhv5Cwuw0o7P_JEsPV2Q" width="100%" />
 <p>A lifelong learner and charismatic software engineer with a passion for web development. Striving to
   stand on the vanguard of technology and innovate immersive digital experiences that make life
