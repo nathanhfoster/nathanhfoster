@@ -4,8 +4,8 @@
 <table cellspacing="0" cellpadding="0">
   <thead>
     <tr>
-      <td><b></b></td>
-      <td><b></b></td>
+      <td><b>1</b></td>
+      <td><b>2</b></td>
     </tr>
   </thead>
   <tbody>
@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://www.cassixcom.com/application/views/front/cassixcom-gifs/business-software.gif" width="50%" height="auto" />
+        <img src="https://www.cassixcom.com/application/views/front/cassixcom-gifs/business-software.gif" width="auto" height="auto" />
       </td>
     </tr>
   </tbody>
