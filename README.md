@@ -76,6 +76,7 @@ relationships.
 <ul>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/"><b>Which Redux implementation do you like the most and why?</b></a></li>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6716822948331831296/"><b>Did you know you can use the useReducer hook instead of the useState hook if you are encapsulating a state object? You will actually use less code!</b></a></li>
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6701278757585592320/"><b>If you want to add state to your component that persists across renders and can trigger a re-render when it’s updated, go with useState or useReducer. If you want to add state to your component that persists across renders but doesn’t trigger a re-render when it’s updated, go with useRef</b></a></li>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6709485304178454528/"><b>If you want your useEffect hook to not be used on the initial mount of your component do this:</b></a></li>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6712396337343815680/"><b>If you want to combine the work done by the .filter and .map methods than use the .reduce method like this:</b></a></li>
   <li><a href="https://www.linkedin.com/posts/nathanhfoster_visualize-the-power-of-redux-and-memoizationi-activity-6712084790641852416-fm08"><b>Visualize The Power Of Redux and Memoization In React</b></a></li>
