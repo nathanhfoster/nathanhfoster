@@ -123,6 +123,7 @@ relationships.
   height="50"
 />
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
+<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg alt="MariaDb" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
 <img
