@@ -74,6 +74,7 @@ relationships.
 </table>
 <h3><a href="https://www.linkedin.com/in/nathanhfoster/detail/recent-activity/shares/" target="_blank">My latest posts</a></h3>
 <ul>
+   <li><a href="https://www.linkedin.com/posts/nathanhfoster_css-activity-6809324570240278528-qAHY"><b>Great CSS shorthand.</b></a></li>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6803425635994877953/"><b>If you want to mimic a React.Component's this.setState API using hooks, try out my useSetStateReducer hook.</b></a></li>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6762056610488692736/"><b>Which Redux implementation do you like the most and why?</b></a></li>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6716822948331831296/"><b>Did you know you can use the useReducer hook instead of the useState hook if you are encapsulating a state object? You will actually use less code!</b></a></li>
