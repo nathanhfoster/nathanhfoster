@@ -31,36 +31,36 @@ relationships.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/strap8/resurrection" target="_blank"><b>resurrection</b></a></td>
+      <td><a href="https://github.com/nathanhfoster/resurrection" target="_blank"><b>resurrection</b></a></td>
       <td><a href="https://www.npmjs.com/package/resurrection" target="_blank">resurrection</a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/strap8/resurrection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nathanhfoster/resurrection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nathanhfoster/resurrection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nathanhfoster/resurrection?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nathanhfoster/resurrection?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/strap8/llexicon" target="_blank"><b>llexicon</b></a></td>
+        <td><a href="https://github.com/nathanhfoster/llexicon" target="_blank"><b>llexicon</b></a></td>
         <td><a href="https://www.astraltree.com" target="_blank">Astral Tree</a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/strap8/llexicon?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/strap8/llexicon?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/llexicon?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/strap8/llexicon?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/nathanhfoster/llexicon?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/nathanhfoster/llexicon?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/nathanhfoster/llexicon?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nathanhfoster/llexicon?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/strap8/llexicon-db" target="_blank"><b>llexicon-db</b></a></td>
+        <td><a href="https://github.com/nathanhfoster/llexicon-db" target="_blank"><b>llexicon-db</b></a></td>
         <td><a href="https://astraltree-db.herokuapp.com" target="_blank">Astral Tree Django Admin</a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/strap8/llexicon-db?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/strap8/llexicon-db?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/llexicon-db?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/strap8/llexicon-db?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/nathanhfoster/llexicon-db?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/nathanhfoster/llexicon-db?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/nathanhfoster/llexicon-db?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nathanhfoster/llexicon-db?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/strap8/react-craftsmanship" target="_blank"><b>react-craftsmanship</b></a></td>
+        <td><a href="https://github.com/nathanhfoster/react-craftsmanship" target="_blank"><b>react-craftsmanship</b></a></td>
         <td><a href="https://react-craftsmanship.herokuapp.com/" target="_blank">React Form Memoziation</a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/strap8/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/strap8/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/strap8/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/strap8/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/nathanhfoster/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/nathanhfoster/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/nathanhfoster/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nathanhfoster/react-craftsmanship?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/mattruddy/store-ui" target="_blank"><b>store-ui</b></a></td>
@@ -182,8 +182,8 @@ relationships.
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="50" height="50" />
 </p>
 <h3>GitHub Stats</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=strap8&theme=dark" alt="Contributions" width="45%" align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=strap8&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" alt="Github Stats" width="45%" align="left" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanhfoster&theme=dark" alt="Contributions" width="45%" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nathanhfoster&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" alt="Github Stats" width="45%" align="left" >
 <h3>&nbsp</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strap8&show_icons=true&hide_border=true&theme=dark" alt="Most Used Languages" width="45%" height="auto" align="left">
-<img src="https://profile-counter.glitch.me/strap8/count.svg" alt="Visitor Count" width="45%" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanhfoster&show_icons=true&hide_border=true&theme=dark" alt="Most Used Languages" width="45%" height="auto" align="left">
+<img src="https://profile-counter.glitch.me/nathanhfoster/count.svg" alt="Visitor Count" width="45%" align="right" />
