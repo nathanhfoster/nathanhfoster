@@ -188,5 +188,4 @@ relationships.
 <h3>&nbsp</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanhfoster&show_icons=true&hide_border=true&theme=dark" alt="Most Used Languages" width="45%" height="auto" align="left">
 <img src="https://profile-counter.glitch.me/nathanhfoster/count.svg" alt="Visitor Count" width="45%" align="right" />
-[![Stargazers repo roster for @nathanhfoster/nathanhfoster](https://reporoster.com/stars/nathanhfoster/nathanhfoster)](https://github.com/nathanhfoster/nathanhfoster/stargazers)
-
+## [![Stargazers repo roster for @nathanhfoster/nathanhfoster](https://reporoster.com/stars/nathanhfoster/nathanhfoster)](https://github.com/nathanhfoster/nathanhfoster/stargazers)
