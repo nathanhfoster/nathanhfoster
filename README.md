@@ -40,7 +40,7 @@ relationships.
     </tr>
     <tr>
         <td><a href="https://github.com/nathanhfoster/pwa-store" target="_blank"><b>pwa-store</b></a></td>
-        <td><a href="https://progressive-web-app-store.herokuapp.com" target="_blank">Pwa Sore</a></td>
+        <td><a href="https://progressive-web-app-store.herokuapp.com" target="_blank">Pwa Store</a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/nathanhfoster/pwa-store?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/nathanhfoster/pwa-store?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/nathanhfoster/pwa-store?style=flat-square&labelColor=343b41"/></td>
@@ -48,7 +48,7 @@ relationships.
     </tr>
     <tr>
         <td><a href="https://github.com/nathanhfoster/pwa-store-backend" target="_blank"><b>pwa-store-backend</b></a></td>
-        <td><a href="https://progressive-web-app-admin.herokuapp.com/system-admin" target="_blank">Pwa Sore Admin</a></td>
+        <td><a href="https://progressive-web-app-admin.herokuapp.com/system-admin" target="_blank">Pwa Store Admin</a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/nathanhfoster/pwa-store-backend?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/nathanhfoster/pwa-store-backend?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/nathanhfoster/pwa-store-backend?style=flat-square&labelColor=343b41"/></td>
