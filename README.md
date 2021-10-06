@@ -1,6 +1,8 @@
-### Hi there, I am Nathan Foster <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30" />
+### Hi there, I am Nathan Foster <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="25" />
+
 [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Foster-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanhfoster/)](https://www.linkedin.com/in/nathanhfoster/)
 <img alt="Background Image" src="https://github.com/nathanhfoster/nathanhfoster/blob/main/background.jpg?raw=true" width="100%" />
+
 <p>A lifelong learner and charismatic software engineer with a passion for web development. Striving to
   stand on the vanguard of technology and innovate immersive digital experiences that make life
   better. I am a leader that galvanizes people. I value craftsmanship. I am an expert in JavaScript,
@@ -90,6 +92,7 @@ relationships.
 </table>
 <h3><a href="https://www.linkedin.com/in/nathanhfoster/detail/recent-activity/shares/" target="_blank">My latest posts</a></h3>
 <ul>
+    <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6850304989932478464/"><b>If you want to use the useEffect hook only after the component mounts, use these custom hooks!</b></a></li>
     <li><a href="https://www.linkedin.com/posts/nathanhfoster_javascript-javascriptdeveloper-activity-6824177705181937664-NNPe"><b>If you want a helper function that omits elements from arrays or keys from objects check this out!</b></a></li>
     <li><a href="https://www.linkedin.com/posts/nathanhfoster_css-activity-6809324570240278528-qAHY"><b>Great CSS shorthand!</b></a></li>
     <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6803425635994877953/"><b>If you want to mimic a React.Component's this.setState API using hooks, try out my useSetStateReducer hook.</b></a></li>
