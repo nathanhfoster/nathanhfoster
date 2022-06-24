@@ -47,7 +47,7 @@ I am forever a student with an unquenchable thirst for knowledge and take the in
     </tr>
     <tr>
         <td><a href="https://github.com/nathanhfoster/llexicon" target="_blank"><b>llexicon</b></a></td>
-        <td><a href="https://www.astraltree.com" target="_blank">Astral Tree</a></td>
+        <td><a href="https://astraltree.herokuapp.com" target="_blank">Astral Tree</a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/nathanhfoster/llexicon?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/nathanhfoster/llexicon?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/nathanhfoster/llexicon?style=flat-square&labelColor=343b41"/></td>
