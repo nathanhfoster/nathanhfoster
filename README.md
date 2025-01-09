@@ -3,10 +3,10 @@
 <a></a>
 <img alt="Background Image" src="https://raw.githubusercontent.com/nathanhfoster/nathanhfoster/main/background.jpg" width="100%" />
 
-<p>A lifelong learner and charismatic software engineer with a passion for web development. Striving to stand on the vanguard of technology and innovate immersive digital experiences that make life better. I am a servant leader that galvanizes people by getting beneath them and lifting them up. I value craftsmanship. I am an expert in JavaScript, React, and Redux with years of experience taking enterprise applications to the next level. I have been building progressive web applications for several years in React, Redux, and Django. I am the author of a state management library that uses React's latest useContext and useReducer hooks.
+<p>A dynamic and results-driven Frontend Engineer with a passion for web development and extensive experience in designing high-performance, interactive applications. Adept at crafting scalable, responsive, and efficient solutions using modern frameworks like React, Redux, and Django, with expertise in real-time multi-user SPAs and performance optimization. A charismatic servant leader who fosters collaboration, empowers teams, and values craftsmanship, SOLID principles, and CLEAN architecture.
 </p>
 <p>
-I am forever a student with an unquenchable thirst for knowledge and take the initiative to cultivate a collaborative environment, deliver technical solutions, and make an impact on teams, business, and the lives of people. I constantly seek to add value to all aspects of my company, clients, and colleagues. When I am not on the keyboard I am analyzing business and client needs, minimizing technical debt, maximizing scalability and performance, focusing on user experience, cultivating world-class culture, and building meaningful relationships.
+A lifelong learner with a relentless drive for innovation, continually pushing the boundaries of frontend engineering to create immersive, user-centric digital experiences. Skilled in mentoring, cultivating world-class culture, and delivering impactful technical solutions that meet business and client needs. Dedicated to minimizing technical debt, maximizing scalability and performance, and building meaningful relationships that add value across all levels of an organization.
 </p>
 <h3>Open source projects</h3>
 <table>
