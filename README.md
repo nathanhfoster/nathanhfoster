@@ -22,6 +22,14 @@ A lifelong learner with a relentless drive for innovation, continually pushing t
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/nathanhfoster/astralpoet" target="_blank"><b>astralpoet</b></a></td>
+      <td><a href="https://www.astralpoet.com" target="_blank">Astral Poet</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/nathanhfoster/astralpoet?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/nathanhfoster/astralpoet?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/nathanhfoster/astralpoet?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nathanhfoster/astralpoet?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nathanhfoster/resurrection" target="_blank"><b>resurrection</b></a></td>
       <td><a href="https://www.npmjs.com/package/resurrection" target="_blank">resurrection</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nathanhfoster/resurrection?style=flat-square&labelColor=343b41"/></td>
