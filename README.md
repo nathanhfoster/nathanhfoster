@@ -17,6 +17,7 @@ I'm a **visionary Principal Frontend Engineer** on the vanguard of **AI-powered 
 ## 🌟 Open Source Projects
 
 | 🎁 Projects | 🔗 Links | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 PRs |
+|------------|---------|---------|---------|---------|---------|
 | [**astralpoet**](https://github.com/nathanhfoster/astralpoet) | [Astral Poet](https://www.astralpoet.com) | ![Stars](https://img.shields.io/github/stars/nathanhfoster/astralpoet?style=flat-square) | ![Forks](https://img.shields.io/github/forks/nathanhfoster/astralpoet?style=flat-square) | ![Issues](https://img.shields.io/github/issues/nathanhfoster/astralpoet?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/nathanhfoster/astralpoet?style=flat-square) |
 | [**resurrection**](https://github.com/nathanhfoster/resurrection) | [NPM Package](https://www.npmjs.com/package/resurrection) | ![Stars](https://img.shields.io/github/stars/nathanhfoster/resurrection?style=flat-square) | ![Forks](https://img.shields.io/github/forks/nathanhfoster/resurrection?style=flat-square) | ![Issues](https://img.shields.io/github/issues/nathanhfoster/resurrection?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/nathanhfoster/resurrection?style=flat-square) |
 
