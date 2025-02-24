@@ -103,6 +103,7 @@ A lifelong learner with a relentless drive for innovation, continually pushing t
 
 <h3>🧰 ToolBox</h3>
 <p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="React" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="PWA" width="auto" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
 <img
