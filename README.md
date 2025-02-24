@@ -31,15 +31,6 @@ I'm a **visionary Principal Frontend Engineer** on the vanguard of **AI-powered 
 - 📈 **Implemented performance optimizations that reduced load times and improved user retention**
 - 👨‍🏫 **Mentored engineers, fostering a culture of technical growth and excellence**
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanhfoster&theme=dark" alt="Contributions" width="45%" align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nathanhfoster&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" alt="Github Stats" width="45%" align="left" >
-
-<h3>&nbsp</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanhfoster&show_icons=true&hide_border=true&theme=dark" alt="Most Used Languages" width="45%" height="auto" align="left">
-<img src="https://profile-counter.glitch.me/nathanhfoster/count.svg" alt="Visitor Count" width="45%" align="right" />
-
 ## 📝 Latest Posts
 
 - [If you want to use `useEffect` only after the component mounts, use these custom hooks!](https://www.linkedin.com/feed/update/urn:li:activity:6850304989932478464/)
@@ -51,6 +42,15 @@ I'm a **visionary Principal Frontend Engineer** on the vanguard of **AI-powered 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathanhfoster/)
 - 📧 [Email](mailto:nathan.hugh.foster@gmail.com)
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanhfoster&theme=dark" alt="Contributions" width="45%" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nathanhfoster&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" alt="Github Stats" width="45%" align="left" >
+
+<h3>&nbsp</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanhfoster&show_icons=true&hide_border=true&theme=dark" alt="Most Used Languages" width="45%" height="auto" align="left">
+<img src="https://profile-counter.glitch.me/nathanhfoster/count.svg" alt="Visitor Count" width="45%" align="right" />
 
 ---
 
